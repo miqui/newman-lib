@@ -1,0 +1,19 @@
+{
+  "name": "newman-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "collectionId": "df638d27-118b-4a8b-8083-7b69ea1b4fce",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "newman": "^6.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
